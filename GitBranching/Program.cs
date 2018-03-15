@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace GitBranching {
     class Program {
         static void Main(string[] args) {
+            Console.Write("Ola Mundo");
         }
     }
 }
